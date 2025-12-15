@@ -1,0 +1,7 @@
+docling
+opencv-python-headless
+opencv-python
+psutil
+torch
+# sudo apt update
+# sudo apt install -y libgl1
